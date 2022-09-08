@@ -1,0 +1,36 @@
+.home{
+    background-image: url("https://cdn.pixabay.com/photo/2017/11/26/08/42/pizza-2978377__340.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+.mybg{
+    background-color: aliceblue;
+}
+
+.card_menu{
+    display: flex;
+    justify-content: center;
+}
+
+.m_card{
+    width: 17rem;
+    margin: 1rem;
+}
+
+.material-icons.md-50{
+    font-size: 40px;
+}
+
+
+.card_menu1{
+    display: flex;
+    justify-content: center;
+}
+
+.m_card1{
+    width: 8rem;
+    height: 10rem;
+    margin: 0.4rem;
+    padding: 1rem;
+}
